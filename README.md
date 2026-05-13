@@ -1,4 +1,6 @@
-&nbsp;<div align="center">
+<!--&nbsp;<div align="center">
   [![Spotify](https://supakornn.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://open.spotify.com/user/plsletmedie)
   [![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
-</div>
+</div>-->
+
+[supakorn.me](https://supakorn.me), [@supak0rnn](https://twitter.com/supak0rnn)
